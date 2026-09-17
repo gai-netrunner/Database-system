@@ -1,2 +1,5 @@
+-- create mysql database
 CREATE DATABASE online_shop;
+
+-- use the database
 USE online_shop;
